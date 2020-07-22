@@ -1,0 +1,3 @@
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/exponentThing/cmake-build-debug/CMakeFiles/exponentThing.dir
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/exponentThing/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Connor/Documents/School/Second Year/CS 2211/Assignments/exponentThing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
